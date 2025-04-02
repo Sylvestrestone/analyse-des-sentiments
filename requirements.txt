@@ -1,0 +1,4 @@
+unidecode
+scikit-learn
+xgboost
+pandas
